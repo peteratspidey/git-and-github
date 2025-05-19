@@ -10,7 +10,7 @@
 * **open source** - source code is freely available
 
 
-## 1. first things is to install git on ur machine
+## 1. install git on ur machine
 ### git installation 
 
 
@@ -18,7 +18,7 @@
  sudo apt install git 
 ```
 
-## 2. second is to setup username and email
+## 2. setup username and email
 ### git setup 
 ```bash
  git config --global user.name "PETER"
